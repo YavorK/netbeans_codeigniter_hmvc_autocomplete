@@ -16,7 +16,7 @@ die();
 #autocomplete in your controllers
 
 /**
- * @property Mdl_users_activity $mdl_users_activity
+ * @property My_custom_class $my_custom_class
  * @property CI_DB_active_record $db
  * @property CI_DB_forge $dbforge
  * @property CI_Benchmark $benchmark
